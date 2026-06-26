@@ -1,4 +1,4 @@
-# React Web Apps
+# ✨ React Web Apps
 
 Welcome to the **React Web Apps** repository! This project hosts a collection of practical, modular web applications built using **React.js**. It is designed to demonstrate fundamental to intermediate React concepts, including component architecture, state management, hooks, and third-party API integration.
 
